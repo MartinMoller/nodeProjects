@@ -1,0 +1,95 @@
+{
+  "books": [
+    {
+      "id": 105,
+      "title": "adipisci velit",
+      "author": "Lexus Runolfsdottir",
+      "rating": 1.15,
+      "year_published": 1774
+    },
+    {
+      "id": 106,
+      "title": "et",
+      "author": "Ben Pouros",
+      "rating": 1.65,
+      "year_published": 1854
+    },
+    {
+      "id": 107,
+      "title": "reiciendis ut molestiae accusamus",
+      "author": "Juliana Kerluke",
+      "rating": 3,
+      "year_published": 1723
+    },
+    {
+      "id": 108,
+      "title": "pariatur recusandae id odit illum",
+      "author": "Kara Harvey",
+      "rating": 4.3,
+      "year_published": 1991
+    },
+    {
+      "id": 109,
+      "title": "architecto officiis facere perferendis",
+      "author": "Lesley Ryan",
+      "rating": 0.55,
+      "year_published": 1769
+    },
+    {
+      "id": 110,
+      "title": "sadæmsa",
+      "author": "slkdmds",
+      "rating": "24",
+      "year_published": "234234"
+    },
+    {
+      "id": 111,
+      "title": "repudiandae iure",
+      "author": "Clark Will",
+      "rating": 0.35,
+      "year_published": 1841
+    },
+    {
+      "id": 112,
+      "title": "nam expedita quia dolores",
+      "author": "Rocio Miller",
+      "rating": 0.3,
+      "year_published": 1999
+    },
+    {
+      "id": 113,
+      "title": "test",
+      "author": "tett",
+      "rating": "99",
+      "year_published": "999"
+    },
+    {
+      "id": 114,
+      "title": "fuckingtest",
+      "author": "lsdfiml",
+      "rating": "123",
+      "year_published": "34"
+    },
+    {
+      "id": 115,
+      "title": "fuckingtest",
+      "author": "lsdfiml",
+      "rating": "123",
+      "year_published": "34"
+    },
+    {
+      "id": 116,
+      "title": "fuckingtestasdsadasd",
+      "author": "lsdfiml",
+      "rating": "123",
+      "year_published": "34"
+    },
+    {
+      "id": 117,
+      "title": "motherfocker",
+      "author": "esf",
+      "rating": "213",
+      "year_published": "12"
+    }
+  ]
+}
